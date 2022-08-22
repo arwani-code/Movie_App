@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/app/src/main/res/drawable/ic_broken_image_black.xml" value="0.156" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/app/src/main/res/drawable/ic_image_black.xml" value="0.156" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/core/src/main/res/drawable/ic_broken_favorite_black.xml" value="0.156" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/core/src/main/res/drawable/ic_favorite_black.xml" value="0.156" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/core/src/main/res/layout/item_list_movie.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/core/src/main/res/layout/item_list_movie_playing.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/core_module/movie_app/core/src/main/res/layout/layout.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.168" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_favorite.xml" value="0.168" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_favorite_white.xml" value="0.168" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_folder_delete.xml" value="0.168" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_not_favorite_white.xml" value="0.156" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_notifications.xml" value="0.169" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/ic_settings_white.xml" value="0.1" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/drawable/side_nav_bar.xml" value="0.222" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/activity_detail.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/activity_home.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/activity_setting.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/app_bar_home.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/content_error.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/content_home.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/fragment_gallery.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/fragment_home.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/fragment_slideshow.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/layout/nav_header_home.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/menu/activity_home_drawer.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/menu/home.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/app/src/main/res/xml/root_preference.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/core/src/main/res/layout/favorite_list_adapter.xml" value="0.1" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/core/src/main/res/layout/item_gallery_movie.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/core/src/main/res/layout/item_list_movie.xml" value="0.1" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/core/src/main/res/layout/item_list_movie_playing.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/core/src/main/res/layout/list_video.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/favorite/src/main/res/layout/activity_favorite.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/search/src/main/res/drawable/ic_search_purple.xml" value="0.169" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/search/src/main/res/drawable/rounded_background_search.xml" value="0.169" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/dynamic-future/movie_app/search/src/main/res/layout/activity_search.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/drawable/ic_broken_image_black.xml" value="0.155" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/drawable/ic_favorite_black.xml" value="0.155" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/drawable/ic_favorite_white.xml" value="0.155" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/drawable/ic_image_black.xml" value="0.155" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/activity_detail.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/activity_home.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/app_bar_home.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/content_error.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/content_home.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/fragment_home.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/item_list_movie.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/layout/item_list_movie_playing.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/menu/activity_home_drawer.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/arwan/Desktop/bangkit/android-expert-dicoding/submission/capstone1/movie_app/app/src/main/res/menu/home.xml" value="0.21510416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
